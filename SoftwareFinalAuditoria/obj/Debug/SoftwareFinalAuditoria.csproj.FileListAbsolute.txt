@@ -1,0 +1,9 @@
+C:\Users\davis\documents\visual studio 2015\Projects\SoftwareFinalAuditoria\SoftwareFinalAuditoria\bin\Debug\SoftwareFinalAuditoria.exe
+C:\Users\davis\documents\visual studio 2015\Projects\SoftwareFinalAuditoria\SoftwareFinalAuditoria\bin\Debug\SoftwareFinalAuditoria.pdb
+C:\Users\davis\documents\visual studio 2015\Projects\SoftwareFinalAuditoria\SoftwareFinalAuditoria\obj\Debug\SoftwareFinalAuditoria.csprojResolveAssemblyReference.cache
+C:\Users\davis\documents\visual studio 2015\Projects\SoftwareFinalAuditoria\SoftwareFinalAuditoria\obj\Debug\SoftwareFinalAuditoria.Properties.Resources.resources
+C:\Users\davis\documents\visual studio 2015\Projects\SoftwareFinalAuditoria\SoftwareFinalAuditoria\obj\Debug\SoftwareFinalAuditoria.csproj.GenerateResource.Cache
+C:\Users\davis\documents\visual studio 2015\Projects\SoftwareFinalAuditoria\SoftwareFinalAuditoria\obj\Debug\SoftwareFinalAuditoria.exe
+C:\Users\davis\documents\visual studio 2015\Projects\SoftwareFinalAuditoria\SoftwareFinalAuditoria\obj\Debug\SoftwareFinalAuditoria.pdb
+C:\Users\davis\documents\visual studio 2015\Projects\SoftwareFinalAuditoria\SoftwareFinalAuditoria\obj\Debug\SoftwareFinalAuditoria.MDIPrincipal.resources
+C:\Users\davis\documents\visual studio 2015\Projects\SoftwareFinalAuditoria\SoftwareFinalAuditoria\obj\Debug\SoftwareFinalAuditoria.Login.resources
